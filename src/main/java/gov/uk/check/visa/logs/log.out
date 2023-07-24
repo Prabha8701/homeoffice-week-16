@@ -1,0 +1,96 @@
+2023-07-24 12:07:740 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:721 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:139 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:960 INFO  ReasonForTravelPage :34 - select Reason for Australia
+2023-07-24 12:07:154 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:981 INFO  ResultPage :44 - get result message tourism
+2023-07-24 12:07:631 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:367 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:538 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:700 INFO  ReasonForTravelPage :39 - select reason for chile
+2023-07-24 12:07:805 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:884 INFO  DurationOfStayPage :36 - Select More Then 6months
+2023-07-24 12:07:989 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:867 INFO  WorkTypePage :26 - Select job type
+2023-07-24 12:07:09 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:539 INFO  ResultPage :44 - get result message tourism
+2023-07-24 12:07:672 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:872 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:12 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:182 INFO  ReasonForTravelPage :45 - select reason for colombia
+2023-07-24 12:07:295 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:226 INFO  ResultPage :55 - get result message family stay
+2023-07-24 12:07:898 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:933 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:109 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:460 INFO  ReasonForTravelPage :34 - select Reason for Australia
+2023-07-24 12:07:947 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:288 INFO  ResultPage :44 - get result message tourism
+2023-07-24 12:07:749 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:754 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:897 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:354 INFO  ReasonForTravelPage :39 - select reason for chile
+2023-07-24 12:07:441 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:616 INFO  DurationOfStayPage :36 - Select More Then 6months
+2023-07-24 12:07:845 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:38 INFO  WorkTypePage :26 - Select job type
+2023-07-24 12:07:333 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:579 INFO  ResultPage :29 - get result message Healthcare
+2023-07-24 12:07:444 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:465 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:609 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:869 INFO  ReasonForTravelPage :45 - select reason for colombia
+2023-07-24 12:07:188 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:511 INFO  ResultPage :55 - get result message family stay
+2023-07-24 12:07:112 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:138 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:293 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:505 INFO  ReasonForTravelPage :39 - select reason for chile
+2023-07-24 12:07:818 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:20 INFO  DurationOfStayPage :36 - Select More Then 6months
+2023-07-24 12:07:217 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:430 INFO  WorkTypePage :26 - Select job type
+2023-07-24 12:07:645 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:873 INFO  ResultPage :29 - get result message Healthcare
+2023-07-24 12:07:303 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:398 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:575 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:770 INFO  ReasonForTravelPage :39 - select reason for chile
+2023-07-24 12:07:123 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:292 INFO  DurationOfStayPage :36 - Select More Then 6months
+2023-07-24 12:07:551 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:715 INFO  WorkTypePage :26 - Select job type
+2023-07-24 12:07:993 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:472 INFO  ResultPage :29 - get result message Healthcare
+2023-07-24 12:07:212 INFO  StartPage :28 - Click on start Button
+2023-07-24 12:07:304 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 12:07:511 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:71 INFO  ReasonForTravelPage :39 - select reason for chile
+2023-07-24 12:07:176 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:611 INFO  DurationOfStayPage :36 - Select More Then 6months
+2023-07-24 12:07:714 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:940 INFO  WorkTypePage :26 - Select job type
+2023-07-24 12:07:284 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 12:07:910 INFO  ResultPage :29 - get result message Healthcare
+2023-07-24 18:07:586 INFO  StartPage :28 - Click on start Button
+2023-07-24 18:07:831 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 18:07:938 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 18:07:288 INFO  ReasonForTravelPage :34 - select Reason for Australia
+2023-07-24 18:07:333 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 18:07:495 INFO  ResultPage :41 - get result message tourism
+2023-07-24 18:07:553 INFO  StartPage :28 - Click on start Button
+2023-07-24 18:07:805 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 18:07:930 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 18:07:101 INFO  ReasonForTravelPage :39 - select reason for chile
+2023-07-24 18:07:252 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 18:07:557 INFO  DurationOfStayPage :36 - Select More Then 6months
+2023-07-24 18:07:609 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 18:07:766 INFO  WorkTypePage :26 - Select job type
+2023-07-24 18:07:896 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 18:07:92 INFO  ResultPage :29 - get result message Healthcare
+2023-07-24 18:07:259 INFO  StartPage :28 - Click on start Button
+2023-07-24 18:07:825 INFO  SelectNationalityPage :24 - Select Nationality
+2023-07-24 18:07:899 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 18:07:52 INFO  ReasonForTravelPage :45 - select reason for colombia
+2023-07-24 18:07:367 INFO  SelectNationalityPage :31 - Click next step Button
+2023-07-24 18:07:564 INFO  ResultPage :52 - get result message family stay
